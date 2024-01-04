@@ -24,8 +24,7 @@
           <div class="stats">
             <div class="stat">
               <img class="icon" src="images/comment.png" alt="" />
-              <p>255</p>
-
+              <p>244</p>
             </div>
             <div class="stat">
               <img class="icon" src="images/retweet.png" alt="" />
@@ -33,7 +32,7 @@
             </div>
             <div class="stat">
               <img class="icon" src="images/heart.png" alt="" />
-              <p>2.6</p>
+              <p>2.6k</p>
             </div>
           </div>
         </div>
