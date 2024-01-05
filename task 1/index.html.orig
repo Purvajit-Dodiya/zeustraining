@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>task1</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap"
+    />
+  </head>
+  <body>
+    <div class="card">
+      <div class="card-body">
+        <img
+          class="avatar"
+          src="images/purvajit.jpg"
+          alt="Purvajit;s profile picture"
+        />
+        <div class="tweet">
+          <p class="username">@purvajit_dodiya</p>
+          <p class="tweet-text">I'd love to teach you HTML/CSS!</p>
+          <div class="stats">
+            <div class="stat">
+              <img class="icon" src="images/comment.png" alt="" />
+              <p>255</p>
+
+            </div>
+            <div class="stat">
+              <img class="icon" src="images/retweet.png" alt="" />
+              <p>142</p>
+            </div>
+            <div class="stat">
+              <img class="icon" src="images/heart.png" alt="" />
+              <p>2.6</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
